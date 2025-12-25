@@ -60,4 +60,5 @@ All data cleaning, transformation, and analysis were performed **using Microsoft
 
 ---
 
-## 📁 Repository Structure
+## 🚀 Outcome
+This project demonstrates a **real-world data analyst workflow**, transforming raw operational data into clear insights and recommendations using Excel dashboards—without reliance on external BI tools.
